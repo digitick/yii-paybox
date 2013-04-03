@@ -1,0 +1,9 @@
+# OS generated #
+._*
+.DS_Store*
+.Trash-*
+*~
+.Trashes
+Thumbs.db
+Session.vim
+
