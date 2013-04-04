@@ -3,7 +3,18 @@ yii-paybox
 
 Paybox service connector for Yii.
 
-###Usage
+##Requirements
+
+Yii 1.1.x
+
+Before using this extension you must first have created an account with
+[Paybox](http://www.paybox.com).
+
+
+##Usage
+
+For now only Paybox Direct is supported.
+
 ```php
 $paybox = new EPayboxDirectPayment;
 $paybox->debug = YII_DEBUG;
